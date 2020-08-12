@@ -1,10 +1,10 @@
-# Personal Portfolio ⚡️ 
+# Personal Portfolio  
 > https://atiwari3bu.github.io
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://atiwari3bu.github.io" target="_blank"><img src="readme_images/preview.JPG">
+    <a href="https://atiwari3bu.github.io" target="_blank"><img src="readme_images/preview.gif">
   </a>
   </kbd>
 </p>
